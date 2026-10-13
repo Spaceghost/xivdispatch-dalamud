@@ -1,0 +1,6 @@
+{
+  "tool": "built-in image_gen",
+  "prompt": "Use case: stylized-concept. Asset type: wide website hero illustration for XivDispatch, a compact Slack companion for FFXIV. Create a polished cinematic editorial illustration, landscape 16:9. In a warmly lit fantasy adventurer's study, a small glowing glass communication panel floats beside an open notebook and a fountain pen. The panel contains graceful abstract conversation bubbles with avatar circles, a nested reply thread, a tiny bookmark and an unread light, no lettering. A peaceful fantasy landscape is faintly visible through the window behind it, suggesting a conversation kept within reach while exploring. Painterly ink and gouache detail, deep midnight blue, warm brass gold, muted turquoise, soft amber lantern lighting, tactile paper and glass. Clear dramatic focal point, sophisticated visual hierarchy, atmospheric depth. Clearly concept art, not a functional app screenshot or actual hardware photo. No Slack logo, no corporate logos, no lettering, no fake text, no watermark.",
+  "caption": "AI-generated concept illustration; not a hardware photo or in-game screenshot.",
+  "asset": "hero.webp"
+}

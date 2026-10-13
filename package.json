@@ -1,0 +1,20 @@
+{
+  "name": "xivdispatch-preview",
+  "private": true,
+  "type": "module",
+  "description": "A practical Slack companion project for FFXIV: DMs, mentions, threads and persistent drafts, with quiet play sessions and optional Prism panels.",
+  "scripts": {
+    "build": "tools/build.sh",
+    "check": "tools/build.sh --check"
+  },
+  "devDependencies": {
+    "imba": "2.0.0-alpha.253",
+    "esbuild": "0.28.1",
+    "acorn": "8.15.0"
+  },
+  "overrides": {
+    "imba": {
+      "esbuild": "0.28.1"
+    }
+  }
+}
