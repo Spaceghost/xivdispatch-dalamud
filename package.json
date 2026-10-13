@@ -5,7 +5,8 @@
   "description": "A practical Slack companion project for FFXIV: DMs, mentions, threads and persistent drafts, with quiet play sessions and optional Prism panels.",
   "scripts": {
     "build": "tools/build.sh",
-    "check": "tools/build.sh --check"
+    "check": "tools/build.sh --check",
+    "test": "node --test tests/*.test.js"
   },
   "devDependencies": {
     "imba": "2.0.0-alpha.253",
